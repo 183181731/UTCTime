@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\UTCTime\UTCTime\bin\Debug\UTCTime.exe.config
+D:\VisualStudioProjects\UTCTime\UTCTime\bin\Debug\UTCTime.exe
+D:\VisualStudioProjects\UTCTime\UTCTime\bin\Debug\UTCTime.pdb
+D:\VisualStudioProjects\UTCTime\UTCTime\obj\Debug\UTCTime.csprojAssemblyReference.cache
+D:\VisualStudioProjects\UTCTime\UTCTime\obj\Debug\UTCTime.Form1.resources
+D:\VisualStudioProjects\UTCTime\UTCTime\obj\Debug\UTCTime.Properties.Resources.resources
+D:\VisualStudioProjects\UTCTime\UTCTime\obj\Debug\UTCTime.csproj.GenerateResource.cache
+D:\VisualStudioProjects\UTCTime\UTCTime\obj\Debug\UTCTime.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\UTCTime\UTCTime\obj\Debug\UTCTime.exe
+D:\VisualStudioProjects\UTCTime\UTCTime\obj\Debug\UTCTime.pdb
